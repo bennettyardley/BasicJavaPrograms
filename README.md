@@ -9,3 +9,6 @@ Parses input to extract the name in the correct form.
 
 ## Right Triangle
 Takes an input of 3 sides and tells the user if it is a right triangle.
+
+## Three of a Kind
+Simulates 3 dice being rolled until there is a match.
