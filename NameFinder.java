@@ -4,7 +4,6 @@
       Find Name
 */
 
-import java.util.Scanner;
 
 public class NameFinder
 {
