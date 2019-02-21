@@ -3,6 +3,7 @@
       Programming I Section 1
       Find Name
 */
+import java.util.Scanner;
 
 
 public class NameFinder
